@@ -15,7 +15,10 @@
 <p align='center'>  
   <a href="https://www.linkedin.com/in/insannity/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp;
+  <a href="https://insannity.com.br/">
+    <img src="https://img.shields.io/badge/-Portfolio-green?&style=for-the-badge" />
+  </a>&nbsp;&nbsp; 
 </p>
 
 <p align='center'>
@@ -32,7 +35,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:contato@insannity.com.br'>ontato@insannity.com.br</a>
+  📫 How to reach me: <a href='mailto:contato@insannity.com.br'>contato@insannity.com.br</a>
 </p>
   
 
