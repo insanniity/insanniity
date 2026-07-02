@@ -13,7 +13,6 @@ Sou um desenvolvedor focado em criar integrações, automações e soluções mo
 ### 🛠️ Infraestrutura e Ferramentas
 *   **DevOps & Ambientes:** Docker, Linux (Ubuntu, Mint, Zorin, CachyOS), Tomcat.
 *   **APIs & Redes:** Postman, Hoppscotch, FileZilla, Putty.
-*   **Gerenciamento & Hospedagem:** Gestão de infraestrutura e domínios de desenvolvimento (como `insannity.dev` e `icastica.com.br`).
 
 ### 🤖 Inteligência Artificial
 *   **Integrações e Produtividade:** Gemini API, Google AI Studio, GitHub Copilot, Tabnine, Cursor.
