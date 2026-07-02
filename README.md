@@ -1,41 +1,27 @@
-<p align='center'>  
-  <a href="https://www.insannity.com.br/">
-    <img src="https://raw.githubusercontent.com/insanniity/insanniity/main/log6.png" width="150" />
-  </a>&nbsp;&nbsp;  
-</p>
+# Olá, eu sou Cleydson Aparecido da Silva 👋
 
-<h1 align='center'>
-  Hi there 👋 I'm Cleydson "insannity"  👨‍💻
-</h1>
+Sou um desenvolvedor focado em criar integrações, automações e soluções modernas para web e mobile. Tenho experiência prática no desenvolvimento de projetos que vão desde a estruturação de CRMs até a construção de aplicações escaláveis.
 
-<p align='center'>
-    A Full Stack Developer from Belo Horizonte /MG
-</p>
+## 🚀 Tecnologias e Ferramentas
 
-<p align='center'>  
-  <a href="https://www.linkedin.com/in/insannity/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://insannity.com.br/">
-    <img src="https://img.shields.io/badge/-Portfolio-green?&style=for-the-badge" />
-  </a>&nbsp;&nbsp; 
-</p>
+### 💻 Desenvolvimento e Arquitetura
+*   **Linguagens e Frameworks:** Java, PHP, React Native, Expo.
+*   **Frontend & UI:** HTML, TailwindCSS, jQuery, Chart.js, Plotly, D3.js, Leaflet.js.
+*   **Banco de Dados & ORM:** MySQL, Drizzle ORM.
+*   **Game Dev:** Godot.
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanniity&theme=dark" width="200"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=insanniity&hide=contribs,prs&theme=dark" width="600"></a>
-</p>
+### 🛠️ Infraestrutura e Ferramentas
+*   **DevOps & Ambientes:** Docker, Linux (Ubuntu, Mint, Zorin, CachyOS), Tomcat.
+*   **APIs & Redes:** Postman, Hoppscotch, FileZilla, Putty.
+*   **Gerenciamento & Hospedagem:** Gestão de infraestrutura e domínios de desenvolvimento (como `insannity.dev` e `icastica.com.br`).
 
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/-windows-blue" />
-  <img src="https://img.shields.io/badge/intel--core-i7-blue" />
-  <img src="https://img.shields.io/badge/ram-24gb-blue" />
-  <img src="https://img.shields.io/badge/AMD-RX570-red" />
-</p>
+### 🤖 Inteligência Artificial
+*   **Integrações e Produtividade:** Gemini API, Google AI Studio, GitHub Copilot, Tabnine, Cursor.
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:contato@insannity.com.br'>contato@insannity.com.br</a>
-</p>
-  
+## 💼 O que estou explorando e trabalhando atualmente
+*   Desenvolvimento e manutenção de projetos focados em CRM e automações.
+*   Colaboração em projetos de integração de sistemas e repositórios, como o `Robo_Integracao`.
+*   Gerenciamento de tarefas, fluxos de trabalho e ajustes de relatórios em ambientes de desenvolvimento ágil (Jira/Frontflow).
 
+---
+*Sinta-se à vontade para explorar meus repositórios!*
