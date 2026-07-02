@@ -17,10 +17,6 @@ Sou um desenvolvedor focado em criar integrações, automações e soluções mo
 ### 🤖 Inteligência Artificial
 *   **Integrações e Produtividade:** Gemini API, Google AI Studio, GitHub Copilot, Tabnine, Cursor.
 
-## 💼 O que estou explorando e trabalhando atualmente
-*   Desenvolvimento e manutenção de projetos focados em CRM e automações.
-*   Colaboração em projetos de integração de sistemas e repositórios, como o `Robo_Integracao`.
-*   Gerenciamento de tarefas, fluxos de trabalho e ajustes de relatórios em ambientes de desenvolvimento ágil (Jira/Frontflow).
 
 ---
 *Sinta-se à vontade para explorar meus repositórios!*
